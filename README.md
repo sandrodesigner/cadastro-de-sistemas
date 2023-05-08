@@ -7,3 +7,5 @@ Para rodar na sua máquina por favor digite:
 `´´
 node app.js
 ´´´
+
+que nome escroto que vc colocou
